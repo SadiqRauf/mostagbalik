@@ -1,0 +1,6 @@
+module Pods_mostagbalik_mostagbalikTests {
+  umbrella header "Pods-mostagbalik-mostagbalikTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

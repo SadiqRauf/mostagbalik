@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_term_condition.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_term_condition.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_watch.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_watch.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_green_check.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_green_check.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_langauge.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_langauge.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_leftarrow.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_leftarrow.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_1.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_1.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_rowsimg.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_rowsimg.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_group.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_group.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_coma.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_coma.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_confirmed.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_confirmed.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_mobile.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_mobile.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_home.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_home.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_logo.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_logo.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_about_us.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_about_us.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_image.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_image.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_calendericon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_calendericon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_privacy.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_privacy.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_calendar.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_calendar.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_down_arrow.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_down_arrow.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_logout.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_logout.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_back_arro.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_back_arro.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_cross.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_cross.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_close.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_close.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_rowsimgleft.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_rowsimgleft.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/macbookpro/ReactNative/mostagbalik/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_left_men.png.flat",
+        "source": "/Users/macbookpro/ReactNative/mostagbalik/android/app/src/main/res/drawable-mdpi/src_assets_left_men.png"
+    }
+]

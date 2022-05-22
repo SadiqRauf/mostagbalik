@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mostagbalik.iml" filepath="$PROJECT_DIR$/.idea/modules/mostagbalik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mostagbalik.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mostagbalik.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-477753762/mostagbalik.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-477753762/mostagbalik.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1210289079/mostagbalik.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-1210289079/mostagbalik.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-958964397/mostagbalik.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-958964397/mostagbalik.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-742138243/mostagbalik.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-742138243/mostagbalik.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-997594638/mostagbalik.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/-997594638/mostagbalik.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/650438015/mostagbalik.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/650438015/mostagbalik.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1410149318/mostagbalik.react-native-restart.iml" filepath="$PROJECT_DIR$/.idea/modules/1410149318/mostagbalik.react-native-restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/421088166/mostagbalik.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/421088166/mostagbalik.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1986650942/mostagbalik.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1986650942/mostagbalik.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1332974224/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1332974224/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
