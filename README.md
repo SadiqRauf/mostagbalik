@@ -6,6 +6,9 @@
   * components
   * navigation
   * screens
+  * actions
+  * constants
+  * reducers
  
  ## Environment setup for windows users
  * install [Node v14.15.0](https://nodejs.org/en/)
